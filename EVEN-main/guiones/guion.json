@@ -1,0 +1,28 @@
+{   "audio":"audios/Tecno_audio_TP3.mp3",
+    "modelo":"modelos/ravenclawtp3.glb",
+    "fondo":"rgb(0,0,0)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "duracion":0,
+                "camara":"Camera",
+                "target":"target1",
+                "nombre":"vista general"
+           },
+           {
+               "tiempo":"00:03",
+               "duracion":2000,
+               "camara":"Camera2",
+               "target":"target2",
+               "nombre":"puerta"
+          },
+          {
+               "tiempo":"00:05",
+               "duracion":10000,
+               "camara":"Camera3",
+               "target":"target3", 
+               "nombre":"vista tres"
+          }
+      ]
+}
